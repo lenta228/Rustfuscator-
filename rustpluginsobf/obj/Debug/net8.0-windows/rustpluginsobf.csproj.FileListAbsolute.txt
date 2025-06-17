@@ -1,0 +1,14 @@
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\bin\Debug\net8.0-windows\rustpluginsobf.exe
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\bin\Debug\net8.0-windows\rustpluginsobf.deps.json
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\bin\Debug\net8.0-windows\rustpluginsobf.runtimeconfig.json
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\bin\Debug\net8.0-windows\rustpluginsobf.dll
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\bin\Debug\net8.0-windows\rustpluginsobf.pdb
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\obj\Debug\net8.0-windows\rustpluginsobf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\obj\Debug\net8.0-windows\rustpluginsobf.AssemblyInfoInputs.cache
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\obj\Debug\net8.0-windows\rustpluginsobf.AssemblyInfo.cs
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\obj\Debug\net8.0-windows\rustpluginsobf.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\obj\Debug\net8.0-windows\rustpluginsobf.dll
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\obj\Debug\net8.0-windows\refint\rustpluginsobf.dll
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\obj\Debug\net8.0-windows\rustpluginsobf.pdb
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\obj\Debug\net8.0-windows\rustpluginsobf.genruntimeconfig.cache
+C:\Users\SystemX\Desktop\rustpluginsobf1.0\rustpluginsobf\obj\Debug\net8.0-windows\ref\rustpluginsobf.dll
